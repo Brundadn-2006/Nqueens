@@ -1,2 +1,0 @@
-# Nqueens
-Nqueens project
